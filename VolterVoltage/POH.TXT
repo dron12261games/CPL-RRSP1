@@ -1,0 +1,68 @@
+===========================================================================
+Advanced engine needed  : Boom
+===========================================================================
+Title                   : Poh
+Filename                : POH
+Release date            : 29.10.2023
+Author                  : VolterVoltage
+Email Address           : dwokfek@gmail.com
+Other Files By Author   : .
+Misc. Author Info       : good man
+
+Description             : the map requires IWAD Doom2, created for Boom,
+                          tested on nugget, should fit everything that
+                          supports boom. there is only one map, MAP01.
+
+Additional Credits to   : .
+===========================================================================
+* What is included *
+
+New levels              : MAP01
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 4 hours
+Editor(s) used          : Ultimate Doom Builder
+Known Bugs              : -
+May Not Run With        : -
+Tested With             : prBoom+, Doom Retro
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: .
+FTP sites: .

@@ -1,0 +1,103 @@
+===========================================================================
+Advanced engine needed  : Boom, recommended Doom Retro, DSDA, Nugget Doom,
+                          Woof! or Eternity Engine
+Primary purpose         : Single play
+===========================================================================
+Title                   : Light! Camera! BOOM!
+Filename                : LIGHT CAMERA BOOM
+                          LIGHT CAMERO BOOM DOOM RETRO VER
+Release date            : 31.09.2023
+Author                  : DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Hotel of the Dead
+                          Tribute Quilt (E4M7 and E4M9 pieces)
+                          SHOVELDM (MAP02, MAP05, MAP09)
+Misc. Author Info       : Mapper, mod maker, programmer, and quite a bit of
+                          pixel art artist.
+
+Description             : Version 2 - some polishing and fixes
+                          
+                          Version 3 - a separate special version for Doom 
+                          Retro
+                          
+                          But really, this level was not created just to pass
+                          and forget it. It's kind of an act of passing on my
+                          experience to other mappers. On this map, I showed
+                          how you can use special Boom actions and tricks to
+                          customize incredible lighting in Doom.
+                          Unfortunately I haven't seen much of this in other
+                          maps, and I know that many mappers don't even know
+                          about it. So I urge mappers from small to large:
+                          Open this map in Doom Builder and take it apart
+                          piece by piece, and then you'll have a powerful new
+                          tool in your pocket and some clever tricks for
+                          mapping your maps already.
+                          
+                          The archive also has my prepared palette for boom 
+                          lighting as a prefab.
+                          
+                          On Doom Retro, the regular version of the map will 
+                          not display correctly in some places, as Fake 
+                          Contrast is implemented a bit differently there. 
+                          It is also recommended to update Doom Retro to 
+                          version 5.0.3.
+
+Additional Credits to   : MIDI: Davester2296 a.k.a DAR - Start Your Engines!
+                          PLAYPAL and COLORMAP from NoSp2.wad
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 6 hours
+Editor(s) used          : Ultimate Doom Builder, Keppy MIDI Converter,
+                          Aseprite, SLADE 3
+Known Bugs              : Any hardware renderers, with default settings
+                          greatly reduce the picture quality in terms of
+                          lighting contrast. The exception is OpenGL Indexed
+                          in DSDA.
+May Not Run With        : -
+Tested With             : Doom Retro, Nigget Doom, Eternity Engine
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/Doom-Mapping-Modding-Lair-DRON12261

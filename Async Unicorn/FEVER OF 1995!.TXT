@@ -1,0 +1,70 @@
+===========================================================================
+Advanced engine needed  : Boom\MBF compatible
+Primary purpose         : Single play
+===========================================================================
+Title                   : Fever of 1995!
+Filename                : FEVER OF 1995!
+Release date            : 31.10.2023 (what a date!)
+Author                  : Async Unicorn
+Email Address           : vanilla-unicorn-ru@yandex.ru
+Other Files By Author   : They either deleted, either sit on my disk
+                          forever...
+Misc. Author Info       : I'm a geek! 
+                          (watch miami vice, it's a wonderful tv series!)
+
+Description             : Nothing special about this map, it's my first
+                          released.
+
+Additional Credits to   : Spotify for music, so I don't die from boring.
+===========================================================================
+* What is included *
+
+New levels              : One new level!
+Sounds                  : No
+Music                   : Yes, from Journey to Silius (Stage 3 track)
+Graphics                : Yes, sky taken from Doom Delta (original alpha E1 sky)
+Dehacked/BEX Patch      : No
+Demos                   : Can you even complete this map without saves? :D 
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Map #                   : E1M1
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 8 hours
+Editor(s) used          : Ultimate Doom Builder
+Known Bugs              : This map itself is a huge bug.
+May Not Run With        : Anything non-Boom, you may not hear JTS music and see custom graphics or text if you play on ports which are not support these.
+Tested With             : Woof, DSDA Doom, GZDoom
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

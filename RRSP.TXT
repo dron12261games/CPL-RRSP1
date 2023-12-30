@@ -1,0 +1,76 @@
+===========================================================================
+Advanced engine needed  : Various (from Limit-Removing to GZDoom UDMF)
+Primary purpose         : Single play
+===========================================================================
+Title                   : Russian Random Speedmap Pack #1
+Filename                : RRSP#1
+Release date            : 31.10.2023
+Author                  : Leader: DRON12261. Mappers list in desc
+Email Address           : andrejskocko@gmail.com
+
+Description             : Project lead - DRON12261
+                          
+                          Speedmap event hosted by the local Ru community in
+                          9 days. List of maps:
+                          1) Man With A Gun - Screaming Void. 
+                              [3 hours, Limit-Removing, Doom 2]
+                          2) Granit sibirsky - Pit? 
+                              [1 hour, GZDoom UDMF, Doom 2]
+                          3) DRON12261 - Lair Under Base 
+                              [3 hours, Limit-Removing, Doom]
+                          4) Man With A Gun - Conquered Complex 
+                              [3 hours, Limit-Removing, Doom]
+                          5) Doom Wads - Colonoscopy 
+                              [4 hours, Boom, Doom 2]
+                          6) Granit sibirsky - Zima Polnyi Vstupit 
+                              [1.5 hours, GZDoom UDMF, Doom 2]
+                          7) Nikolanchik - Lazylanchik 
+                              [1 hour, Boom, Doom 2]
+                          8) Granit sibirsky - Corvus Mission 
+                              [2 hrs, GZDoom UDMF, Heretic]
+                          9) Granit sibirsky - Betrayer? 
+                              [2,5 hours, GZDoom UDMF, Hexen]
+                          10) Track Federal - Flood 
+                              [3 hours, Boom, Doom 2]
+                          11) Granit sibirsky - SteelCorp Experiment 
+                              [2,5 hours, GZDoom UDMF, Strife]
+                          12) VolterVoltage - Poh 
+                              [4 hours, Boom, Doom 2]
+                          13) George Nash - Grant Archive of Lost Wisdom 
+                              [2 hours, GZDoom UDMF, Hexen]
+                          14) Doom Wads - Backpropagation 
+                              [10 hours, Boom, Doom]
+                          15) DRON12261 - Madness in the depths 
+                              [10 hours, Boom, Doom 2]
+                          16) Async Unicorn - Fever of 1995! 
+                              [8 hours, Boom, Doom]
+                          17) Winnkar - Silver Mission 
+                              [10 hours, Boom, Doom 2]
+                          18) DRON12261 - Light! Camera! BOOM! 
+                              [6 hours, Boom, Doom 2]
+===========================================================================
+* What is included *
+
+New levels              : 18
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom, Doom 2, Heretic, Hexen, Strife
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : from 1 to 10 hours
+Editor(s) used          : Ultimate Doom Builder, SLADE 3
+
+
+For more information on the map, see the corresponding txt files for each wad.

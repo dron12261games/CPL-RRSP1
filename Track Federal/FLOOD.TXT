@@ -1,0 +1,72 @@
+===========================================================================
+Advanced engine needed  : Boom
+Primary purpose         : Single play
+===========================================================================
+Title                   : Flood
+Filename                : FLOOD
+Release date            : 31.10.2023
+Author                  : Track Federal
+Email Address           : -
+
+Description             : Flood... 
+                          An ominous atmospheric map that takes place in the
+                          flooded ruins of a medieval castle. Monotonous
+                          texturing with elaborated shadows. The gameplay is
+                          based on a limit of health resources, weapons and a
+                          large number of shotgunners, kinda similar to
+                          original E4M1, but much less annoying. Blind run
+                          will take about 5 minutes. 
+
+Additional Credits to   : MIDI - PRCP - Outer Darknees
+                          SKY from ADO2022
+                          Textures: Ultimate doom, IDtex, 32in24-15
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 3 hours
+Editor(s) used          : Ultimate Doom Builder
+Known Bugs              : -
+May Not Run With        : -
+Tested With             : prBoom+, Doom Retro
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

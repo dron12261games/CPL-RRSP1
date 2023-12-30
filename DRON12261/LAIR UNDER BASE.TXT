@@ -1,0 +1,75 @@
+===========================================================================
+Advanced engine needed  : Limit-removing, better play with Doom Retro, DSDA,
+                          Woof!, Nugget Doom
+Primary purpose         : Single play
+===========================================================================
+Title                   : Lair Under base
+Filename                : LAIR UNDER BASE
+Release date            : 23.10.2023
+Author                  : DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Hotel of the Dead, SHOVELDM maps, Light! Camera!
+                          BOOM!, The Living Abyss on My Painting, some DM
+                          maps
+
+Description             : This level was done in 3 hours, + 1 extra hour for
+                          polishes, playtests and pre-release preparations.
+                          
+                          Use Software Renderer!
+                          
+                          Version 2 - fixed flat bleeding and end text
+
+Additional Credits to   : MIDI - Running-Kruger Effect by AD_79
+                          Sky by Mechadon
+                          PLAYPAL and COLORMAP from NoSp2.wad
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Map #                   : E1M1
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 4 hours
+Editor(s) used          : Ultimate Doom Builder, SLADE 3, Keppy MIDI
+                          Converter
+May Not Run With        : Hardware Renderer may produce a poor picture
+Tested With             : Cripsy Doom, DSDA, Doom Retro, prBoom+
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/dron12261games
