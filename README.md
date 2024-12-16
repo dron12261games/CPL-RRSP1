@@ -4,6 +4,8 @@ A community project organized by me for russian doom community
 
 # STATUS: ✅RELEASED
 
+### Download - [Latest Release](https://github.com/dron12261games/CPL-RRSP1/releases/download/v1/RRSP1.zip)
+
 # Links (all information inside)
 - [Doomworld](https://www.doomworld.com/forum/topic/141189-russian-random-speedmap-pack-1-18-totally-different-maps/?tab=comments#comment-2725910)
 - [Doom Power](http://i.iddqd.ru/viewtopic.php?p=135537)
